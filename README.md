@@ -1,1 +1,10 @@
-# task_management_desktop_application
+# Meerkat_Team
+
+Meerkat Team
+ANYAKWO AMAKA
+BABENSKAS JULIUS
+ENACHE ALEXANDRU
+ESMAEEL REWAZ
+SOWOLE FUNKE
+
+No API used
